@@ -4,7 +4,7 @@
 
 -- ======= CÀI ĐẶT (chỉnh nếu cần) =======
 local URLS = {
-	"https://api.rubis.app/v2/scrap/d5dSfVuVDwCB1Ay5/raw",
+	"https://api.rubis.app/v2/scrap/sSbCo4cMfQ4RRbib/raw",
 	"https://api.luarmor.net/files/v3/loaders/13c33d62bc915316ab79080b1a7b78a7.lua"
 }
 local MUTE_GUI_SOUNDS = true   -- true = tắt cả âm GUI; false = giữ âm GUI
